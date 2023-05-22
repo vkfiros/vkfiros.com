@@ -1,0 +1,38 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 213 87" width="213" height="87">
+	<title>logo</title>
+	<defs>
+		<image  width="275" height="183" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3BAMAAADDfafHAAAAAXNSR0IB2cksfwAAACFQTFRF9dWa9dOU9O7m9Ozh9/foyQBwzAB61QCAAAAAW1tbV1dXXPRPVQAAAJRJREFUeJztztEAwCAABcAYplIsQxhDCDH01XeUI3gJdEdwpWRPjdr7RX1kc0frMFFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVG5svIDa2Fb+lVGWqYAAAAASUVORK5CYII="/>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m31.23-128.96c-19.48 0-35.23-15.74-35.23-35.23 0-19.48 15.75-35.23 35.23-35.23 19.48 0 35.23 15.75 35.23 35.23 0 19.49-15.75 35.23-35.23 35.23z"/>
+		</clipPath>
+		<image  width="33" height="38" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAmCAMAAAB9PwLlAAAAAXNSR0IB2cksfwAAAWVQTFRFJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUl7+WVMQAAAHd0Uk5TAAZBDqfJxD4HTKH/eQGPqgNUcr8IDF5b/RwQbkv64yEfeDHr8CY4geLxXIUb0PdhkRPFYMsCvv5t76b7f0P8BI2WiImXBQ3C5po2gKgJ2N1dyroPERfWzh69ROypFNGgnq996Qta6q7H2hnTpfNGOZLlO1KZGOTvhzgsAAABeUlEQVR4nG3R+z8CQRAA8ElFnDgqDlFSkeshnKgIJc+8yVvyfuTN309XO7t3t/PD7n7mvp+Z+cwB1MLUADTMFms9GpswaWtmRItAotXOFW0I2kWatXXgsxOBw8kUdnWRV7dEgLWHAdDbV3+4+wkY8LAAvIO12zdEgD+gARAcVq/ACAGhoBbAqFw9wxECojEdgLGqiI8TIE3ogWnyXyhTBCSm7XoRnpHBliQglVb0AGbn5Mw8bmpBNABIC4tZBLklI8gvCyspAlZNRgBrfiwgJG0cAOsUbPC+Q2ETwZaLK7YlpomZA5w7AhO7e0bhllghWPf14OBQXTQlxSMtENNq2nJMiUM7y8mpmpWdZ8wsBQacX9SSMiiXlJSYP3MlEAH2HB25nEFxTQXclHDe6C2KO0ZA4R6LhDxcAfkHJI8uroCnZyQvCldAsEJEIsYX8IrT+t/4AsrYJ1LgC5Hu/13hCvB+4FY++QK+cLfFOF+I39gnyxfw80tExfcHXPlAxwy2w2sAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #cc007a } 
+		.t1 { font-size: 24px;fill: #ffffff;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.t2 { font-size: 24px;fill: #000000;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.t3 { font-size: 22px;line-height: 18px;fill: #000000;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.t4 { font-size: 22px;line-height: 18px;fill: #252525;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+		.s5 { fill: #9150e8 } 
+		.t6 { font-size: 24px;fill: #252525;font-weight: 700;font-family: "Ubuntu-Bold", "Ubuntu" } 
+	</style>
+	<use id="Layer 1" href="#img1" x="-141" y="-754"/>
+	<g clip-path="url(#cp1)">
+		<path id="Shape 1" class="s0" d="m31.2-129c-19.5 0-35.2-15.7-35.2-35.2 0-19.5 15.7-35.2 35.2-35.2 19.5 0 35.3 15.7 35.3 35.2 0 19.5-15.8 35.2-35.3 35.2z"/>
+		<text id="VK firos" style="transform: matrix(2.279,0,0,2.279,14.173,-128.797)" >
+			<tspan x="0" y="0" class="t1">V</tspan><tspan  y="0" class="t1">K</tspan><tspan  y="0" class="t2"> </tspan><tspan  y="0" class="t2">f</tspan><tspan  y="0" class="t2">i</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">s
+</tspan>
+		</text>
+	</g>
+	<text id="VK FIROS" style="transform: matrix(2.279,0,0,2.279,14.173,-128.797)" >
+		<tspan x="0" y="0" class="t1">V</tspan><tspan  y="0" class="t1">K</tspan><tspan  y="0" class="t3"> </tspan><tspan  y="0" class="t4">F</tspan><tspan  y="0" class="t4">I</tspan><tspan  y="0" class="t4">R</tspan><tspan  y="0" class="t4">O</tspan><tspan  y="0" class="t4">S</tspan><tspan  y="0" class="t4">
+</tspan>
+	</text>
+	<use id="VK" href="#img2" x="58" y="-167"/>
+	<path id="Shape 1 copy" class="s5" d="m44.2 81c-19.5 0-35.2-15.7-35.2-35.2 0-19.5 15.7-35.2 35.2-35.2 19.5 0 35.3 15.7 35.3 35.2 0 19.5-15.8 35.2-35.3 35.2z"/>
+	<text id="vkfiros" style="transform: matrix(2.279,0,0,2.279,17.173,62.203)" >
+		<tspan x="0" y="0" class="t1">v</tspan><tspan  y="0" class="t1">k</tspan><tspan  y="0" class="t6">f</tspan><tspan  y="0" class="t6">i</tspan><tspan  y="0" class="t6">r</tspan><tspan  y="0" class="t6">o</tspan><tspan  y="0" class="t6">s</tspan><tspan  y="0" class="t6">
+</tspan>
+	</text>
+</svg>
